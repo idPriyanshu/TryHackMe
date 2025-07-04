@@ -1,15 +1,5 @@
 
-###TryHackMe: TakeOver CTF Walkthrough
-
-````markdown
-<p align="center">
-  <h2 align="center">🛡️ TryHackMe - TakeOver</h2>
-  <b>Difficulty:</b> Easy<br>
-  <b>Room Link:</b> <a href="https://tryhackme.com/room/takeover">https://tryhackme.com/room/takeover</a><br><br>
-  <img src="https://i.imgur.com/aK2ENq7.jpg" width="500px">
-</p>
-
----
+## TryHackMe: TakeOver CTF Walkthrough
 
 ## 📘 Summary
 
